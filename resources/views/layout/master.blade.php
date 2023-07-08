@@ -57,6 +57,7 @@
     width: 70px; left:0px; z-index:11;
     bottom: 0px;"   /></a>
         @include('layout.header')
+        @include('layout.brudcrumb')
         @yield('content')
         @include('layout.footer')
     </body>
