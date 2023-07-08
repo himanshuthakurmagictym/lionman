@@ -1,0 +1,642 @@
+/*          Responsive styles
+================================================== */
+
+@media only screen and (min-width: 1678px) and (max-width: 1923px) {
+    .slider-area .button {
+        top: 69%;
+    }
+    .nivo-caption {
+        width: 28%;
+    }
+}
+@media only screen and (min-width: 1390px) and (max-width: 1677px) {}
+/*                     Tablet Landscape
+=======================================================================================*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /*--------------------------------------
+   Header And SLider
+----------------------------------------*/
+    
+
+    .navigation .logo::after {
+        display: none;
+    }
+    #navigation > ul > li > a {
+        border-left: 1px solid transparent;
+        border-right: 1px solid transparent;
+        padding: 30px 8px;
+        font-size: 12px;
+    }
+    .nivo-caption {
+        left: 11%;
+        width: 64%;
+        top: -18px;
+    }
+    .slider-area .big-title span {
+        font-size: 35px;
+        letter-spacing: 2px;
+    }
+    .slider-area .button {
+        top: 74%;
+    }
+    .slider-area .slide_btm {
+        padding: 10px 20px;
+    }
+    .pull-right.header-right.text-right {
+        display: none;
+    }
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    
+    .chooseus-item {
+        margin-left: 34px;
+        padding-right: 50px;
+    }
+    /*--------------------------------------
+   video Section     
+----------------------------------------*/
+    
+    .play-video {
+        left: 50%;
+    }
+    .video-content p {
+        margin-left: 529px;
+    }
+    .video-content h2 {
+        font-size: 29px;
+    }
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    
+    .testimonials-section .base-header {
+        width: 60%;
+    }
+    /*--------------------------------------
+   Blog Section
+----------------------------------------*/
+    
+    .post-format {
+        top: 83%;
+    }
+    .work-section .col-sm-4,
+    .work-section .col-sm-3 {
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-bottom: -6px;
+    }
+}
+/*                      Tablet Portrait
+=======================================================================================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /*--------------------------------------
+   Header And SLider
+----------------------------------------*/
+    
+
+    .navigation .logo::after {
+        display: none;
+    }
+    #navigation > ul > li > a {
+        border-left: 1px solid transparent;
+        border-right: 1px solid transparent;
+        padding: 30px 8px;
+        font-size: 12px;
+    }
+    .nivo-caption {
+        left: 11%;
+        width: 78%;
+        top: -18px;
+    }
+    .slider-area .big-title span {
+        font-size: 27px;
+        letter-spacing: 2px;
+    }
+    .slider-area .button {
+        top: 74%;
+    }
+    .slider-area .slide_btm {
+        padding: 10px 20px;
+    }
+    .header-right {
+        display: none;
+    }
+    .base-header {
+        width: 80%;
+    }
+    /*
+   onepage menu
+----------------------------------------*/
+    
+    .pull-right.header-right.text-right {
+        display: none;
+    }
+    .nav > li > a {
+        margin: 0 10px;
+        letter-spacing: 0px;
+    }
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    
+    .chooseus-item {
+        margin-left: 34px;
+        padding-right: 50px;
+    }
+    /*--------------------------------------
+   get-touch
+----------------------------------------*/
+    
+    .get-touch-button {
+        padding: 98px 60px;
+    }
+    .get-touch-section .more-link {
+        padding: 14px 24px;
+    }
+    /*--------------------------------------
+   video Section     
+----------------------------------------*/
+    
+    .video-content p {
+        margin-left: 0px;
+        float: none;
+        margin-top: 0px;
+    }
+    .video-content {
+        text-align: center;
+    }
+    .play-video {
+        left: 50%;
+        margin-left: -26px;
+        margin-top: -56px;
+    }
+    #video {
+        padding-top: 159px;
+    }
+    /*--------------------------------------
+   pricing
+----------------------------------------*/
+    
+    .pricing-box {
+        padding: 40px 20px;
+    }
+    .pricing-box h2 {
+        font-size: 40px;
+    }
+    .pricing_buton {
+        left: 22px;
+    }
+    .pricing_buton .more-link {
+        padding: 12px 15px;
+    }
+    /*--------------------------------------
+   Blog Section
+----------------------------------------*/
+    
+    .post-format {
+        top: 76%;
+    }
+    /*--------------------------------------
+   contact Section
+----------------------------------------*/
+    
+    .contact-section .base-header p {
+        width: 94%;
+    }
+    /*--------------------------------------
+   Blog Page 
+-----------------------------------------*/
+    
+    .blog-area {
+        padding-right: 20px;
+    }
+}
+/*                          Phone
+=======================================================================================*/
+
+@media only screen and (max-width: 767px) {
+    /*--------------------------------------
+   Header And SLider
+----------------------------------------*/
+    
+    .header_topbar {
+        display: none;
+    }
+    .navigation .logo::after {
+        width: 88px;
+        right: -79px;
+    }
+    #navigation.small-screen #menu-button::before {
+        top: 30px;
+    }
+    #navigation.small-screen #menu-button::after {
+        top: 36px;
+    }
+    #navigation.small-screen #menu-button.menu-opened::after {
+        top: 37px;
+    }
+    #navigation.small-screen #menu-button.menu-opened::before {
+        top: 37px;
+    }
+    .navigation {
+        border-bottom: 2px solid transparent !important;
+    }
+    .nivo-caption {
+        /* display: none !important; */
+        font-size: 14px;
+    }
+    .slider-area .small-content{
+        display: none !important;
+    }
+
+    .slider-area .slide_btm{
+        padding: 5px!important;
+        font-size: 9px!important;
+    }
+
+    .about-section{
+        padding-top: 5px!important;
+    }
+    .slider-area .big-title span{
+        font-size: 15px!important;
+        letter-spacing: 2px!important;
+    }
+
+    .slider-area .big-title{
+        line-height: 22px!important;
+    }
+    #navigation.small-screen #menu-button {
+        padding: 37px;
+        margin-top: -1px;
+    }
+    #navigation > ul > li > a {
+        padding: 16px 20px;
+    }
+    #navigation > ul > li.has-sub > a {
+        padding: 16px 20px;
+    }
+
+    .reverseMenu{
+        display: none;
+        z-index:-1;
+    }
+    
+    .reverseMenudesk{
+        z-index:-1;
+    }
+    #menu-button{
+        display: inline-block!important;
+        /* padding:14px!important; */
+    
+    }
+    .open{
+        width:285px!important;
+    }
+    .preview-2 .nivoSlider .nivo-directionNav a.nivo-nextNav {
+        right: 48px;
+    }
+    .nivo-directionNav a {
+        top: 25%;
+    }
+    .base-header {
+        width: 100%;
+    }
+    .base-header h3 {
+        line-height: 40px;
+    }
+    .blog-header {
+        padding-left: 0px;
+        margin-top: 38px;
+    }
+    .blog-header h3 {
+        line-height: 43px;
+    }
+    .base-header p::before {
+        display: none
+    }
+    /*
+   onepage menu
+----------------------------------------*/
+    
+    .navbar-toggle {
+        margin-right: 9px;
+    }
+    .pull-right.header-right.text-right {
+        display: none;
+    }
+    .navbar .navbar-nav {
+        margin-left: -15px;
+        margin-top: 26px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle:hover .icon-bar {
+        background-color: #ddd;
+    }
+    .navbar {
+        background-color: rgba(29, 30, 30, 0.94);
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: transparent;
+        box-shadow: none;
+    }
+    .nav > li > a {
+        padding: 11px 0px;
+    }
+    /*--------------------------------------
+   about section
+----------------------------------------*/
+    
+    .about-right img {
+        margin-left: 0px;
+    }
+    .about-left h3 {
+        letter-spacing: 0px;
+        font-size: 36px;
+    }
+    /*--------------------------------------
+  get-touch
+----------------------------------------*/
+    
+    .get-touch-section {
+        padding-bottom: 0px;
+        margin-bottom: -20px;
+    }
+    .get-touch-section .more-link {
+        padding: 14px 13px;
+        letter-spacing: 1px;
+        margin-top: -100px;
+    }
+    .get-touch-section h3 {
+        text-align: left;
+    }
+    .get-touch-section h4 {
+        text-align: left;
+    }
+    .get-touch-warper::before {
+        display: none;
+    }
+    /*--------------------------------------
+   chooseus
+----------------------------------------*/
+    
+    .chooseus-item {
+        margin-bottom: 70px;
+    }
+    .chooseus-item .chooseus-content {
+        float: right;
+        width: 100%;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .chooseus-item .chooseus-icon {
+        left: 0px;
+        width: 100%;
+        top: -63px;
+    }
+    .chooseus-left {
+        text-align: center;
+    }
+    /*--------------------------------------
+   video Section     
+----------------------------------------*/
+    
+    .video-content p {
+        margin-left: 0px;
+        float: none;
+        margin-top: -8px;
+    }
+    .video-content {
+        text-align: center;
+    }
+    .play-video {
+        left: 50%;
+        margin-left: -26px;
+        margin-top: -56px;
+    }
+    #video {
+        padding-top: 130px;
+        padding-bottom: 60px;
+    }
+    .video-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    /*--------------------------------------
+   pricing
+----------------------------------------*/
+    
+    .pricing-section {
+        padding-bottom: 70px;
+    }
+    .pricing-box {
+        padding: 40px 30px;
+        margin-bottom: 30px;
+    }
+    .pricing-box h2 {
+        font-size: 40px;
+    }
+    .pricing_buton {
+        left: 26px;
+        bottom: 40px;
+    }
+    .pricing_buton .more-link {
+        padding: 12px 15px;
+    }
+    /*--------------------------------------
+   work Section
+----------------------------------------*/
+    
+    .work-section .col-sm-4,
+    .work-section .col-sm-3 {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+    /*--------------------------------------
+   testimonial Section
+----------------------------------------*/
+    
+    .testimonials-section .base-header h3 {
+        letter-spacing: 0px;
+        font-size: 36px;
+    }
+    .testimonials-section .testimonial-box .cus-title {
+        margin-left: 0px;
+    }
+    /*--------------------------------------
+   Blog Section
+----------------------------------------*/
+    
+    .post-format {
+        top: 81%;
+    }
+    .blog_tx_warp {
+        margin-bottom: 15px;
+    }
+    /*--------------------------------------
+   contact Section
+----------------------------------------*/
+    
+    .contact-section .base-header p {
+        width: 100%;
+    }
+    .contact-section {
+        padding-bottom: 0px;
+    }
+    /*--------------------------------------
+   footer Section
+----------------------------------------*/
+    
+    .footer-section .subfooter .col-xs-6,
+    .footer-section .subfooter .col-xs-6 {
+        width: 100% !important;
+    }
+    .subfooter p {
+        float: none;
+    }
+    .scrollup {
+        float: none;
+    }
+    footer .recent-post li a {
+        font-size: 14px;
+    }
+    .footer-section .widget h5 {
+        margin-bottom: 22px;
+    }
+    .footer-section .col-xs-2 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .footer-section .widget .col-xs-11 {
+        padding-left: 0px;
+    }
+    .footer-section .widget p {
+        margin-left: -23px;
+    }
+    .footer-section .widget h3 {
+        letter-spacing: 1px;
+        font-size: 29px;
+    }
+    /*--------------------------------------
+   Blog Page 
+-----------------------------------------*/
+    
+    .blog-area {
+        padding-right: 15px;
+    }
+    .contact .blog-contact .contact-warper {
+        padding-bottom: 0px;
+    }
+    /*--------------------------------------
+   portfolio Page 
+-----------------------------------------*/
+    
+    .portfolio-single-detail {
+        padding-left: 0px;
+    }
+    .portfolioitem .carousel-control {
+        top: 32%;
+    }
+}
+/* Mobile Vertical Layout: 488px 
+===============================================================================*/
+
+@media only screen and (min-width: 488px) and (max-width: 767px) {
+    /*--------------------------------------
+    About Section 
+----------------------------------------*/
+
+    
+    .about_proj .col-xs-12 {
+        width: 33%;
+    }
+    .about-right {
+        text-align: center;
+    }
+    /*--------------------------------------
+    service Section 
+----------------------------------------*/
+    
+    .service-section .timeline_posts .col-xs-12 {
+        width: 50%;
+    }
+    .service-item {
+        padding: 30px 10px 30px 18px;
+    }
+    .service-section .icon-serv {
+        float: none;
+        margin-bottom: 20px;
+    }
+    .serv-left {
+        padding-left: 0px;
+        margin-bottom: -12px;
+    }
+	
+    /*--------------------------------------
+    pricing Section 
+----------------------------------------*/
+    .pricing-section .col-xs-12 {
+        width: 50%;
+    }
+	
+    /*--------------------------------------
+    work Section 
+----------------------------------------*/
+    
+    .work-section .project-list .col-xs-12 {
+        width: 50%;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-bottom: -5px;
+    }
+    .related-portfolio .col-xs-12 {
+        width: 50%;
+        padding-right: 3px;
+        padding-left: 4px;
+    }
+    /*--------------------------------------
+    client Section 
+----------------------------------------*/
+    
+    .client-box {
+        padding-top: 40px;
+    }
+    /*--------------------------------------
+    Footer Section 
+----------------------------------------*/
+    
+    .footer-section .col-xs-2 {
+        width: 8.667%;
+    }
+    .recent-post li {
+        border-color: transparent;
+    }
+    /*--------------------------------------
+   Blog Page 
+-----------------------------------------*/
+    
+    .blog-area .col-sm-6.col-xs-12 {
+        width: 50%;
+    }
+}
+
+@media (min-width:600px){
+    .reverseMenudesk{
+        display: none;
+     }
+}
