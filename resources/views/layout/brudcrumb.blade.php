@@ -6,10 +6,17 @@
                     <!-- Headline Goes Here -->
                     
                     <?php $segments = ''; ?>
-                    @foreach(Request::segments() as $segment)
-                        <?php $segments .= '/'.$segment; ?>
-                        <h4><a href="/"> Home </a> / {{$segment}} </h4>
-                        <h3> {{$segment}}</h3>
+                    
+                    <h4>
+                    <a href="/"> Home </a> /
+                    @foreach(Request::segments() as $key => $segment)
+                        @if($segment == 'services')
+                            <a href="/"> Services </a> / 
+                        @endif 
+                        @if($segment !== 'services')
+                        {{$segment}} </h4>
+                            <h3> {{$segment}}</h3>
+                        @endif  
                     @endforeach
                 </div>
             </div>

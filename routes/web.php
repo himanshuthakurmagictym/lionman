@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use Illuminate\Http\Request;
+use App\Http\Controllers\ServicesController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -32,6 +33,4 @@ Route::get('/contact', function() {
     return view('contact');
 })->name('contact');
 
-Route::get('/services', function() {
-    return view('services');
-});
+Route::get('/services/{id}', [ServicesController::class, 'index'])->name('services');
