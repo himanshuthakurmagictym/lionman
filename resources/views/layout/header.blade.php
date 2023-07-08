@@ -44,16 +44,16 @@
 							</li>
                             <li class="has-subs"><a href="#" title="Clients">Other services </a>
                                 <ul style="">
-									<li><a href="" title="Blog">Security Services</a>
+									<li class="has-subs"><a href="" title="Blog">Security Services</a>
 										<ul style="  ">
                                             <li><a href="{{route('home')}}" title="blog">Guarding Services</a>
                                             <ul>
-                                            <li id="menu-item-6947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6947"><a href="https://sigroupindia.com/home-security/">Home Security</a></li>
-			<li id="menu-item-6948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6948"><a href="https://sigroupindia.com/pso/">PSO</a></li>
-			<li id="menu-item-6946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6946"><a href="https://sigroupindia.com/bouncers/">Bouncers</a></li>
-			<li id="menu-item-6950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6950"><a href="https://sigroupindia.com/vehicle-with-security/">Vehicle with Security</a></li>
-			<li id="menu-item-6945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6945"><a href="https://sigroupindia.com/armed-guards/">Armed Guards</a></li>
-			<li id="menu-item-6949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6949"><a href="https://sigroupindia.com/residential-society-security/">Residential Society Security</a></li>
+                                            <li><a href="">Home Security</a></li>
+                                        <li ><a href="">PSO</a></li>
+                                        <li ><a href="">Bouncers</a></li>
+                                        <li ><a href="">Vehicle with Security</a></li>
+                                        <li ><a href="">Armed Guards</a></li>
+                                        <li ><a href="">Residential Society Security</a></li>
                                             </ul>
                                             </li>
                                             <li><a href="{{route('home')}}" title="Single">Office Security</a>

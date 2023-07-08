@@ -555,6 +555,7 @@ font-size: 18px;
      margin-left: 100%;
      top: 0;
  }
+ 
  #navigation.align-right ul ul ul {
      margin-left: 0;
      margin-right: 100%;
@@ -572,6 +573,7 @@ font-size: 18px;
      border-top: 1px solid #393939;
      border-bottom: 1px solid #2c2d2d;
  }
+ 
  #navigation ul ul li:last-child > a,
  #navigation ul ul li.last-item > a {
      border-bottom: 0;
