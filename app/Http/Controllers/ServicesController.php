@@ -25,7 +25,7 @@ class ServicesController extends Controller
         ]);
 
         try {
-            Mail::to($request->email)->send(new contact($request));
+            Mail::to('himanshuthakur619619@gmail.com')->send(new contact($request));
             Log::debug('contactForm: client email sent.');
         } catch (\Exception $e) {
             Log::error('contactForm: failed to send client email.', [
