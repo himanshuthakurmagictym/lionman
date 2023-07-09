@@ -32,7 +32,6 @@
     <link href="{{asset('css/owl.carousel.css')}}" rel="stylesheet">
     <link href="{{asset('css/owl.theme.css')}}" rel="stylesheet">
     <link href="{{asset('css/owl.transitions.css')}}" rel="stylesheet">
-
     <!-- nivo slider CSS -->
     <link rel="stylesheet" href="{{asset('css/nivo-slider.css')}}" type="text/css" />
     <link rel="stylesheet" href="{{asset('css/nivo-preview.css')}}" type="text/css" media="screen" />
@@ -96,17 +95,8 @@
     <script src="{{asset('js/maps.js')}}" type="text/javascript"></script>
 	<!-- Use For singlePageNav  -->
     <script src="{{asset('js/jquery.singlePageNav.min.js')}}" type="text/javascript"></script>
-
+  
     <!-- Custom Scripts
 ========================================-->
     <script src="{{asset('js/main.js')}}" type="text/javascript"></script>
-    <script>
-        $(document).ready(function(){
-          $("form").submit(function(){
-            alert("Message Submitted");
-          });
-        });
-        </script>
-
-
 </html>

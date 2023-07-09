@@ -32,5 +32,6 @@ Route::get('/careers', function() {
 Route::get('/contact', function() {
     return view('contact');
 })->name('contact');
-
+Route::post('/contactForm', [ServicesController::class, 'contactForm'])->name('contactForm');
 Route::get('/services/{id}', [ServicesController::class, 'index'])->name('services');
+

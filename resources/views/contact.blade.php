@@ -1,5 +1,5 @@
 @extends('layout.master')
-
+   
 @section('content')
 <section class="contact-section">
         <div class="container-fulid">
@@ -21,7 +21,8 @@
                     <div class="col-lg-12">
                         <!--  Contact Form  -->
                         <div class="contact-form">
-                            <form method="post" action="mailer.php" id="contact-form">
+                            <form method="post" action="{{ route('contactForm') }}" id="contact-form">
+                            @csrf
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <input class="con-field" name="name" id="name" type="text" placeholder="Name">
@@ -30,7 +31,7 @@
                                         <input class="con-field" name="email" id="email" type="text" placeholder="Email">
                                     </div>
                                     <div class="col-lg-4">
-                                        <input class="con-field" name="messageForm" id="messageForm" type="text" placeholder="Subject">
+                                        <input class="con-field" name="phone" id="messageForm" type="phone" placeholder="Phone">
                                     </div>
                                 </div>
                                 <div class="row">
@@ -54,3 +55,5 @@
         <!-- container /- -->
     </section>
 @endsection 
+
+
