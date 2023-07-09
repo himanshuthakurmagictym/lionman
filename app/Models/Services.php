@@ -11,6 +11,6 @@ class Services extends Model
     protected $guarded = ['id'];
 
     protected $table = "service";
-    protected $fillable = ['service_name','service_image', 'service_content', 'slug'];
+    protected $fillable = ['service_name','service_image', 'service_content', 'service_category', 'slug'];
     public $timestamps = true;
 }

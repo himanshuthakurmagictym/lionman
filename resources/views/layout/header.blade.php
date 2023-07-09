@@ -1,3 +1,11 @@
+@php
+$commercial = \App\Models\Services::where(['service_category' => 'commercial'])->get();
+$guarding_services = \App\Models\Services::where(['service_category' => 'guarding_services'])->get();
+$office_security = \App\Models\Services::where(['service_category' => 'office_security'])->get();
+$Housekeeping_services = \App\Models\Services::where(['service_category' => 'Housekeeping_services'])->get();
+@endphp
+
+
 <div class="header_topbar">
         <!-- Logo -->
 			<div class="container">
@@ -48,6 +56,9 @@
 										<ul style="  ">
                                             <li><a href="{{route('home')}}" title="blog">Guarding Services</a>
                                             <ul>
+                                            @foreach($guarding_services as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
+                                            @endforeach
                                             <li><a href="">Home Security</a></li>
                                         <li ><a href="">PSO</a></li>
                                         <li ><a href="">Bouncers</a></li>
@@ -58,6 +69,9 @@
                                             </li>
                                             <li><a href="{{route('home')}}" title="Single">Office Security</a>
                                             <ul>
+                                            @foreach($office_security as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
+                                            @endforeach
                                             <li><a href="{{route('home')}}" title="blog">Office Complex Security</a>
                                             
                                             <li><a href="{{route('home')}}" title="blog">CCTV Monitoring</a>
@@ -76,6 +90,9 @@
                                             </li>
                                             <li><a href="{{route('home')}}" title="Single">Commercial &#038; Industrial Security</a>
                                             <ul>
+                                            @foreach($commercial as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
+                                            @endforeach
                                             <li ><a href="">Premises Security</a></li>
                                             <li ><a href="">Individual Frisking</a></li>
                         <li ><a href="">CCTV Monitoring</a></li>
@@ -100,6 +117,9 @@
 
                                     <li><a href="" title="Blog">Housekeeping Services</a>
 										<ul>
+                                        @foreach($Housekeeping_services as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
+                                            @endforeach
                                         <li ><a href="">Office Cleaning &amp; Maintenance</a></li>
                                         <li ><a href="">Vegetation Pruning &amp; Cutting.</a></li>
                                         <li ><a href="">Home Cleaning</a></li>

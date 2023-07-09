@@ -18,7 +18,7 @@
                     <div class="about-left">
                       
                         <h3><span class="ylow_clr"> {{$details->service_name}} </span> </h3>
-                        {{$details->service_content}}
+                        {!!$details->service_content!!}
                         <!-- <a href="{{route('contact')}}" class="more-link text-white">Contact Us</a> -->
                     </div>
                     <!--/About Left-->
