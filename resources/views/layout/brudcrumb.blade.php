@@ -14,8 +14,8 @@
                             <a href="/"> Services </a> / 
                         @endif 
                         @if($segment !== 'services')
-                        {{$segment}} </h4>
-                            <h3> {{$segment}}</h3>
+                        {{str_replace('-', ' ', $segment)}} </h4>
+                            <h3> {{str_replace('-', ' ', $segment)}} </h3>
                         @endif  
                     @endforeach
                 </div>
