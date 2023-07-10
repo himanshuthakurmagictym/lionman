@@ -3,6 +3,8 @@ $commercial = \App\Models\Services::where(['service_category' => 'commercial'])-
 $guarding_services = \App\Models\Services::where(['service_category' => 'guarding_services'])->get();
 $office_security = \App\Models\Services::where(['service_category' => 'office_security'])->get();
 $Housekeeping_services = \App\Models\Services::where(['service_category' => 'Housekeeping_services'])->get();
+$facility = \App\Models\Services::where(['service_category' => 'facility'])->get();
+$manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get();
 @endphp
 
 
@@ -54,25 +56,25 @@ $Housekeeping_services = \App\Models\Services::where(['service_category' => 'Hou
                                 <ul style="">
 									<li class="has-subs"><a href="" title="Blog">Security Services</a>
 										<ul style="  ">
-                                            <li><a href="{{route('home')}}" title="blog">Guarding Services</a>
+                                            <li><a href="" title="blog">Guarding Services</a>
                                             <ul>
                                             @foreach($guarding_services as $service)
                                             <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
                                             @endforeach
-                                            <li><a href="">Home Security</a></li>
+                                            <!-- <li><a href="">Home Security</a></li>
                                         <li ><a href="">PSO</a></li>
                                         <li ><a href="">Bouncers</a></li>
                                         <li ><a href="">Vehicle with Security</a></li>
                                         <li ><a href="">Armed Guards</a></li>
-                                        <li ><a href="">Residential Society Security</a></li>
+                                        <li ><a href="">Residential Society Security</a></li> -->
                                             </ul>
                                             </li>
-                                            <li><a href="{{route('home')}}" title="Single">Office Security</a>
+                                            <li><a href="" title="Single">Office Security</a>
                                             <ul>
                                             @foreach($office_security as $service)
                                             <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
                                             @endforeach
-                                            <li><a href="{{route('home')}}" title="blog">Office Complex Security</a>
+                                            <!-- <li><a href="{{route('home')}}" title="blog">Office Complex Security</a>
                                             
                                             <li><a href="{{route('home')}}" title="blog">CCTV Monitoring</a>
                                             </li>
@@ -85,33 +87,33 @@ $Housekeeping_services = \App\Models\Services::where(['service_category' => 'Hou
                                             <li><a href="{{route('home')}}" title="Single">Individual Frisking</a>
                                             </li>
                                             <li><a href="{{route('home')}}" title="Single">Scanners</a>
-                                            </li>
+                                            </li> -->
                                             </ul>
                                             </li>
-                                            <li><a href="{{route('home')}}" title="Single">Commercial &#038; Industrial Security</a>
+                                            <li><a href="" title="Single">Commercial &#038; Industrial Security</a>
                                             <ul>
                                             @foreach($commercial as $service)
                                             <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
                                             @endforeach
-                                            <li ><a href="">Premises Security</a></li>
+                                            <!-- <li ><a href="">Premises Security</a></li>
                                             <li ><a href="">Individual Frisking</a></li>
                         <li ><a href="">CCTV Monitoring</a></li>
                         <li ><a href="">Control Room</a></li>
                         <li ><a href="">Fire Fighting</a></li>
                         <li ><a href="">Patrolling</a></li>
                         <li ><a href="">Vehicle Checking and Parking</a></li>
-                        <li ><a href="">Special Arrangement for Educational Institutions</a></li>
+                        <li ><a href="">Special Arrangement for Educational Institutions</a></li> -->
                                             </ul>
                                             </li>
-                                            <li><a href="{{route('home')}}" title="Single">CCTV Monitoring</a>
-                                            </li>
+                                            <!-- <li><a href="{{route('home')}}" title="Single">CCTV Monitoring</a>
+                                            </li> -->
 										</ul>
 									</li>
                                     <li><a href="" title="Blog">ManPower Outsourcing</a>
 										<ul>
-                                        <li ><a href="">Contract Staffing</a></li>
-                                        <li ><a href="">Office Manpower</a></li>
-                                        <li ><a href="">Payroll Management</a></li>
+                                             @foreach($manpower as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
+                                            @endforeach
 										</ul>
 									</li>
 
@@ -120,17 +122,18 @@ $Housekeeping_services = \App\Models\Services::where(['service_category' => 'Hou
                                         @foreach($Housekeeping_services as $service)
                                             <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
                                             @endforeach
-                                        <li ><a href="">Office Cleaning &amp; Maintenance</a></li>
+                                        <!-- <li ><a href="">Office Cleaning &amp; Maintenance</a></li>
                                         <li ><a href="">Vegetation Pruning &amp; Cutting.</a></li>
-                                        <li ><a href="">Home Cleaning</a></li>
+                                        <li ><a href="">Home Cleaning</a></li> -->
                                             </li>
                                        
 										</ul>
 									</li>
                                     <li><a href="" title="Blog">Facility Management</a>
 										<ul>
-                                        <li ><a href="">Building Management</a></li>
-		                                <li ><a href="">Real Estate Management</a></li>
+                                        @foreach($facility as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}">{{$service->service_name}}</a></li>
+                                            @endforeach
                                        
 										</ul>
 									</li>
