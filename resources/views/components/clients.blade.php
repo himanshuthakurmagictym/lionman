@@ -13,56 +13,26 @@
                     <!-- Start: Client Section -->
                     <div class="owl-carousel owl-theme col-md-12" id="client">
                         <!-- client 1 -->
+                        @for($j=1; $j<5; $j++)
                         <div class="item row">
                             <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/G-Mega-Mart.png">
+                                <div class="client-box"><img alt="client" src="images/background/{{ $j }}.jpg">
                                 </div>
                             </div>
                         </div>
+                        @endfor
+
+                        @for($i=1; $i<28; $i++)
+                        <div class="item row">
+                            <div class="col-md-12">
+                                <div class="client-box"><img alt="client" src="images/background/logo-{{ $i }}.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        @endfor
                         <!-- client 2 -->
                         
-                        <!-- client 3 -->
-                        
-                        <!-- client 4 -->
-                        <div class="item row">
-                            <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/G-Mega-Mart.png">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item row">
-                            <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/G-Mega-Mart.png">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- client 5 -->
-                        <div class="item row">
-                            <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/gokel-garden.png">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- client 6 -->
-                        <div class="item row">
-                            <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/govinadam-bangquet.png">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item row">
-                            <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/G-Mega-Mart.png">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- client 7 -->
-                        <div class="item row">
-                            <div class="col-md-12">
-                                <div class="client-box"><img alt="client" src="images/background/khanna-hospital.png">
-                                </div>
-                            </div>
-                        </div>
+                    
                     </div>
                     <!--  End:Client Section -->
                 </div>
