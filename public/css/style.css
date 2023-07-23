@@ -530,6 +530,7 @@ font-size: 18px;
  #navigation ul ul {
      position: absolute;
      left: -9999px;
+     margin-left: -235px;
  }
  #navigation.align-right ul ul {
      text-align: right;
