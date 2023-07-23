@@ -290,7 +290,7 @@
            
             <div class="base-header">
                 <h3>Team <span class="ylow_clr">member</span></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Phasellus id lectus quis dui euismod con placerat massa nec elit egestas efficitur. </p>
+                <!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Phasellus id lectus quis dui euismod con placerat massa nec elit egestas efficitur. </p> -->
             </div>
           
             <div class="row">
@@ -482,7 +482,7 @@
                 <!-- Start: Heading -->
                 <div class="base-header">
                     <h3>Get in <span class="ylow_clr">Touch</span></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Phasellus id lectus quis dui euismod con placerat massa nec elit egestas efficitur. </p>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Phasellus id lectus quis dui euismod con placerat massa nec elit egestas efficitur. </p> -->
                 </div>
                 <!-- End:  heading -->
             </div>
