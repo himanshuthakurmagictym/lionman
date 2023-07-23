@@ -53,7 +53,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
 							
 							</li>
                             <li class="has-subs"><a href="#" title="Clients">Other services </a>
-                                <ul style="left: -300px!important;">
+                                <ul style="">
 									<li class="has-subs"><a href="" title="Blog">Security Services</a>
 										<ul style="  ">
                                             <li><a href="" title="blog">Guarding Services</a>
