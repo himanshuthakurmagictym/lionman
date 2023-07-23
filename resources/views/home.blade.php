@@ -22,7 +22,7 @@
                             <span>MANPOWER</span> <span class="slide_st1">SERVICES</span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                            LionMan certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
+                            Lionman Commandos certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                         <span>Housekeeping</span> <span class="slide_st1">Services </span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                        LionMan Certification  provides ISO certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
+                        Lionman Commandos Certification  provides ISO certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                             <span>Security</span> <span class="slide_st1">   Services </span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                        LionMan Certification  provides ISO certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
+                        Lionman Commandos Certification  provides ISO certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                     <!--About Left-->
                     <div class="about-left">
                         <h3>MANPOWER <span class="ylow_clr">SERVICES COMPANY</span> </h3>
-                        <p>Servitor Intelligence Services (Lionman) is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more than 13 years' experience in this ﬁeld. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. </p>
+                        <p>Servitor Intelligence Services (Lionman Commandos) is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more than 13 years' experience in this ﬁeld. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. </p>
                   
 						<a href="/about.php"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
                     </div>
@@ -141,7 +141,7 @@
                         <img src="/images/service/manpower.svg" class="img-fluid serviceIcon">
                       
                             <h5 class="serv-left">Manpower Services </h5>
-                            <p>Lionman provides superior caretaking and housekeeping facilities for ATMs. Our staff is highly trained and professional when</p>     
+                            <p>Lionman Commandos provides superior caretaking and housekeeping facilities for ATMs. Our staff is highly trained and professional when</p>     
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -154,7 +154,7 @@
                         
                           
                             <h5 class="serv-left">Facility Management</h5> 
-                            <p>At Lionman, we believe in providing end to end services. Keeping this in mind, we offer security for civil/ structural consultation, civil contractors, e l ectrical</p>
+                            <p>At Lionman Commandos, we believe in providing end to end services. Keeping this in mind, we offer security for civil/ structural consultation, civil contractors, e l ectrical</p>
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -239,7 +239,7 @@
                 <div class="col-lg-6 col-sm-7 col-xs-12">
                     <!--About Left-->
                     <div class="about-left">
-                        <h3>Lionman  <span class="ylow_clr">Mission</span> </h3>
+                        <h3>Lionman Commandos  <span class="ylow_clr">Mission</span> </h3>
                         <p>Our aim is to provide such an excellent experience to our clients that they are more than satisfied and keep coming back to us. Our main focus is on clear and concise communication with both the clients and the resources. We combine on field experience of our seasoned experts and advanced technology to strive towards perfection across all the services we provide. Our ethics, morals, time commitment and aﬀordability makes us stand out from the crowd. Our resources are fully trained, disciplined, trustworthy and professional.</p>
                   
 						<a href="/about.php"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
