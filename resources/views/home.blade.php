@@ -412,6 +412,50 @@
           
         </div>
       
+    </section >
+    <section class="get-touch-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6 get-touch-text">
+            
+            <div class="ec-item-wrap ">
+						<span> <i class="fa fa-users" aria-hidden="true"></i></span>
+					    <div class="ec-right-content">
+                            <span class="ec-count-number" data-enable='off' >20000</span>
+                            <div class="ec-count-title">Customers</div>
+						</div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 get-touch-text">
+            <div class="ec-item-wrap ">
+						<span><i class="fa fa-calendar" aria-hidden="true"></i></span>
+							<div class="ec-right-content">
+						        <span class="ec-count-number" data-enable='off' >10</span>
+		                        <div class="ec-count-title">Years in Existence</div>
+						    </div>    
+            </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 get-touch-text">
+            <div class="ec-item-wrap ">
+					<span><i class="fa fa-globe" aria-hidden="true"></i></span>
+					<div class="ec-right-content">
+				        <span class="ec-count-number" data-enable='off' >16</span>
+		                <div class="ec-count-title">Locations</div>
+					</div> 
+            </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 get-touch-text">
+            <div class="ec-item-wrap ">
+						<span><i class="fa fa-group"></i></span>
+						<div class="ec-right-content">
+                            <span class="ec-count-number" data-enable='off' >17000</span>
+		                    <div class="ec-count-title">Team Members</div>
+						</div> 
+            </div>
+            </div>
+        
+        </div>
+    </div>
     </section>
     <!--  End:Team Section 
 ==================================================-->
