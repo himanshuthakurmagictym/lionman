@@ -446,7 +446,7 @@
             </div>
             <div class="col-lg-3 col-sm-6 get-touch-text">
             <div class="ec-item-wrap ">
-						<span><i class="fa fa-group"></i></span>
+						<span><i class="fa fa-user" aria-hidden="true"></i></span>
 						<div class="ec-right-content">
                             <span class="ec-count-number" data-enable='off' >17000</span>
 		                    <div class="ec-count-title">Team Members</div>
