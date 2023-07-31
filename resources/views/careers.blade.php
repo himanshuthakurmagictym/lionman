@@ -21,7 +21,7 @@
                     <div class="col-lg-12">
                         <!--  Contact Form  -->
                         <div class="contact-form">
-                            <form method="post" action="{{ route('applyForm') }}" id="contact-form">
+                            <form method="post" action="{{ route('applyForm') }}" enctype="multipart/form-data"  id="contact-form">
                             @csrf
                                 <div class="row">
                                     <div class="col-lg-4">
