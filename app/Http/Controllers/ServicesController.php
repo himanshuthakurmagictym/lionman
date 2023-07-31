@@ -49,12 +49,13 @@ class ServicesController extends Controller
             'message' => 'required',
         ]);
         $resume = $request->file('resume');
+        $name = time().'.'.$resume->getClientOriginalExtension();;
         $path = public_path('uploads');
         // create folder
         if(!File::exists($path)) {
             File::makeDirectory($path, $mode = 0777, true, true);
         }
-        $attachment->move($path, $name);
+        $resume->move($path, $name);
 
         $filename = $path.'/'.$name;
 
