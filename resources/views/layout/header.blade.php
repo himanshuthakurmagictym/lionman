@@ -22,8 +22,8 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                     </div>
 					<div class="header_top_right list-unstyled"> 
 						<ul>
-							<li><i class="fa fa-envelope"></i>lionman@gmail.com</li>
-							<li><i class="fa fa-phone"></i>+91 73039 999999</li>
+							<!-- <li><i class="fa fa-envelope"></i>lionman@gmail.com</li> -->
+							<li><i class="fa fa-phone"></i>01144464325, +7015512160</li>
 						</ul>	
 					</div>
                 </div>
