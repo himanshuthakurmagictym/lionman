@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use File;
 use Illuminate\Http\Request;
 use App\Models\Services;
 use Mail;
