@@ -33,5 +33,6 @@ Route::get('/contact', function() {
     return view('contact');
 })->name('contact');
 Route::post('/contactForm', [ServicesController::class, 'contactForm'])->name('contactForm');
+Route::post('/applyForm', [ServicesController::class, 'applyForm'])->name('applyForm');
 Route::get('/services/{id}', [ServicesController::class, 'index'])->name('services');
 

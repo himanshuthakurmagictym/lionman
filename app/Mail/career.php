@@ -28,6 +28,12 @@ class career extends Mailable
      */
     public function build()
     {
-        return $this->view('view.name');
+        return $this->subject('Career Form Received')
+        
+        ->view('email.applyform')
+        ->with([
+            'request' => $this->request
+        ])
+        ->attach($this->filename);
     }
 }

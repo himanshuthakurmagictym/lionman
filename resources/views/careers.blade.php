@@ -21,7 +21,8 @@
                     <div class="col-lg-12">
                         <!--  Contact Form  -->
                         <div class="contact-form">
-                            <form method="post" action="mailer.php" id="contact-form">
+                            <form method="post" action="{{ route('applyForm') }}" id="contact-form">
+                            @csrf
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <input class="con-field" name="name" id="name" type="text" placeholder="Name">
@@ -30,13 +31,13 @@
                                         <input class="con-field" name="email" id="email" type="text" placeholder="Email">
                                     </div>
                                     <div class="col-lg-4">
-                                        <input class="con-field" name="messageForm" id="messageForm" type="phone" placeholder="phone">
+                                        <input class="con-field" name="mobile" id="messageForm" type="phone" placeholder="Mobile">
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <label for="">Your Resume</label>
-                                    <input class="con-field" name="resume" id="messageForm" type="file" placeholder="phone">
+                                    <input class="con-field" name="resume" id="messageForm" type="file" placeholder="resume">
                                     </div>
                                 </div>
                                 <div class="row">
