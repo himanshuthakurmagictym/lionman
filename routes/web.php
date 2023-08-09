@@ -29,10 +29,15 @@ Route::get('/our-clients', function() {
 Route::get('/careers', function() {
     return view('careers');
 })->name('careers');
+Route::get('/get-a-quote', function() {
+    return view('get-a-quote');
+})->name('get-a-quote');
 Route::get('/contact', function() {
     return view('contact');
 })->name('contact');
 Route::post('/contactForm', [ServicesController::class, 'contactForm'])->name('contactForm');
 Route::post('/applyForm', [ServicesController::class, 'applyForm'])->name('applyForm');
+Route::post('/getaquoteForm', [ServicesController::class, 'getaquoteForm'])->name('getaquoteForm');
+
 Route::get('/services/{id}', [ServicesController::class, 'index'])->name('services');
 

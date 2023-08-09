@@ -93,7 +93,7 @@
                     <!--About Left-->
                     <div class="about-left">
                         <h3>LIONMAN <span class="ylow_clr">COMMANDOS</span> </h3>
-                        <p>Lionman Commandos is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more than 13 years' experience in this ﬁeld. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. </p>
+                        <p>Lionman Commandos is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more experience in this ﬁeld. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. </p>
                   
 						<a href="/about.php"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
                     </div>
@@ -416,7 +416,7 @@
     <section class="get-touch-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-sm-6 get-touch-text">
+            <div class="col-lg-4 col-sm-6 get-touch-text">
             
             <div class="ec-item-wrap ">
 						<span> <i class="fa fa-users" aria-hidden="true"></i></span>
@@ -426,16 +426,8 @@
 						</div>
             </div>
             </div>
-            <div class="col-lg-3 col-sm-6 get-touch-text">
-            <div class="ec-item-wrap ">
-						<span><i class="fa fa-calendar" aria-hidden="true"></i></span>
-							<div class="ec-right-content">
-						        <span class="ec-count-number counter" data-enable='off' >10</span>
-		                        <div class="ec-count-title">Years in Existence</div>
-						    </div>    
-            </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 get-touch-text">
+         
+            <div class="col-lg-4 col-sm-6 get-touch-text">
             <div class="ec-item-wrap ">
 					<span><i class="fa fa-globe" aria-hidden="true"></i></span>
 					<div class="ec-right-content">
@@ -444,7 +436,7 @@
 					</div> 
             </div>
             </div>
-            <div class="col-lg-3 col-sm-6 get-touch-text">
+            <div class="col-lg-4 col-sm-6 get-touch-text">
             <div class="ec-item-wrap ">
 						<span><i class="fa fa-user" aria-hidden="true"></i></span>
 						<div class="ec-right-content">
