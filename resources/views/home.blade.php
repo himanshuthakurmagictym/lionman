@@ -124,7 +124,7 @@
                     
                     <div class="col-lg-6 col-sm-6 col-xs-12">
                         <!-- about-item -->
-                        <a href="/service/ISO-13485.php"> 
+                        <a href="{{route('housekeeping-services')}}"> 
                         <div class="service-item">
                         <img src="/images/service/housekeeping.svg" class="img-fluid serviceIcon">
                       
@@ -136,7 +136,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-6 col-xs-12">
                         <!-- about-item -->
-                        <a href="/service/ISO-14001.php"> 
+                        <a href="{{route('manpower-outsourcing')}}"> 
                         <div class="service-item"> 
                         <img src="/images/service/manpower.svg" class="img-fluid serviceIcon">
                       
@@ -148,7 +148,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-6 col-xs-12">
                         <!-- about-item -->
-                        <a href="/service/ISO-50001.php"> 
+                        <a href="{{route('facility-management')}}"> 
                         <div class="service-item">
                         <img src="/images/service/facility-management.svg" class="img-fluid serviceIcon">
                         
@@ -162,7 +162,7 @@
                     
                     <div class="col-lg-6 col-sm-6 col-xs-12">
                         <!-- about-item -->
-                        <a href="/service/ISO-9001.php">
+                        <a href="{{route('security-services')}}">
                         <div class="service-item">
                             <img src="/images/service/security.svg" class="img-fluid serviceIcon">
                            
@@ -201,7 +201,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 col-sm-5 get-touch-button">
-                    <a href="/contact.php" class="more-link">Enquire Now</a>
+                    <a href="{{route('get-a-quote')}}" class="more-link">GET a Quote</a>
                 </div>
             </div>
         </div>

@@ -29,6 +29,21 @@ Route::get('/our-clients', function() {
 Route::get('/careers', function() {
     return view('careers');
 })->name('careers');
+
+Route::get('/security-services', function() {
+    return view('security-services');
+})->name('security-services');
+Route::get('/housekeeping-services', function() {
+    return view('housekeeping-services');
+})->name('housekeeping-services');
+Route::get('/manpower-outsourcing', function() {
+    return view('manpower-outsourcing');
+})->name('manpower-outsourcing');
+Route::get('/facility-management', function() {
+    return view('facility-management');
+})->name('facility-management');
+
+
 Route::get('/get-a-quote', function() {
     return view('get-a-quote');
 })->name('get-a-quote');
