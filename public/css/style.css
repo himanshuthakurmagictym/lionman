@@ -3357,6 +3357,51 @@ hyphens: auto;
     text-align: left!important;
 }
 
+.boxblink{
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 0;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+   
+}
+
+.boxblink div{
+    padding:10px;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    border: 1px dashed #ffffff80;
+    border-radius: 6px;
+    display: flex;
+}
+
+.boxblink div div{
+
+   border-radius:50%;
+   background:orange;
+   display: inline-block;
+   margin-right: 10px;
+   border: 1px dotted white;
+ 
+}
+.boxblink div div:hover{
+
+    border-radius:50%;
+    background-color:white;
+    display: inline-block;
+    margin-right: 10px;
+ }
+
+.boxblink div:hover{
+    padding:10px;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    border: 1px dashed #ffffff80;
+    border-radius: 6px;
+    background:orange
+  
+}
+
 /* .keyimage::after{
     content: "KEY Services";
     position: absolute;

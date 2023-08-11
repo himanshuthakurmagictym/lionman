@@ -7,6 +7,7 @@ use App\Models\Services;
 use Mail;
 use App\Mail\contact;
 use App\Mail\career;
+use App\Mail\getaquote;
 use Illuminate\Support\Facades\Log;
 class ServicesController extends Controller
 {
@@ -26,7 +27,7 @@ class ServicesController extends Controller
         ]);
 
         try {
-            Mail::to('himanshuthakur619619@gmail.com')->send(new contact($request));
+            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new contact($request));
             Log::debug('contactForm: client email sent.');
         } catch (\Exception $e) {
             Log::error('contactForm: failed to send client email.', [
@@ -60,7 +61,7 @@ class ServicesController extends Controller
         $filename = $path.'/'.$name;
 
         try {
-            Mail::to('himanshuthakur619619@gmail.com')->send(new career($request, $filename));
+            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new career($request, $filename));
         } catch (\Exception $e) {
             Log::error('contactForm: failed to send client email.', [
                 $e->getMessage(),
@@ -72,4 +73,36 @@ class ServicesController extends Controller
         toastr()->success('Career Form successfully sent');
         return back();
     }
+
+    public function getaquoteForm(Request $request){
+       
+        $validatedData = $request->validate([
+            'name' => 'required',
+            'mobile' => 'required',
+            'email' => 'required|email',
+            'message' => 'required',
+            'company' => 'required',
+            'officeSecurity' => 'required',
+            'area' => 'required',
+            'facility' => 'required',
+            'guards' => 'required',
+            'service' => 'required',
+            'message' => 'required',
+        ]);
+       
+        try {
+            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new getaquote($request, $filename));
+        } catch (\Exception $e) {
+            Log::error('getqueote: failed to send client email.', [
+                $e->getMessage(),
+                $validatedData
+            ]);
+            // @TODO handle error
+        }
+        //  $service
+        toastr()->success('GetAQueote Form successfully sent');
+        return back();
+    }
+
+    
 }

@@ -205,6 +205,42 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="row">
+                 <div class="col-lg-1  ">
+                   
+                </div>
+                <div class="col-lg-2 col-sm-7 boxblink">
+                    <div>
+                      <div></div>Compassion
+                    </div>
+                   
+                </div>
+                <div class="col-lg-2 col-sm-5 boxblink">
+                <div>
+                <div></div>commitment
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-5 boxblink">
+                <div>
+                <div></div>excellent
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-5 boxblink">
+                <div>
+                <div></div>Team Work
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-5 boxblink">
+                <div>
+                <div></div>Value
+                   </div>
+                </div>
+                <div class="col-lg-1  ">
+                   
+                </div>
+            </div>
+        </div>
     </section>
     <!-- End:Get In Touch Section 
 ==================================================-->

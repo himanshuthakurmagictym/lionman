@@ -44,7 +44,7 @@
                                         <option value="OfficeSecurity">Office Security</option>
                                         <option value="BankSecurity">Bank Security</option>
                                         <option value="PersonalSecurity">Personal Security</option>
-                                        <option value=""></option>
+                                       
                                        </select>
                                     </div>
                                     <div class="col-lg-4">
@@ -72,7 +72,7 @@
                                        </select>
                                     </div>
                                     <div class="col-lg-4">
-                                    <select name="area" class="form-control" id="">
+                                    <select name="service" class="form-control" id="">
                                         <option value="">service Needed By</option>
                                         <option value="Bank security">Bank security</option>
                                         <option value="Office security">Office security</option>
@@ -80,12 +80,7 @@
                                        </select>
                                     </div>
                                 </div>
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <label for="">Your Resume</label>
-                                    <input class="con-field" name="resume" id="messageForm" type="file" placeholder="resume">
-                                    </div>
-                                </div>
+                               
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <textarea class="con-field" name="message" id="message" rows="6" placeholder="Your Message"></textarea>
