@@ -22,7 +22,7 @@
                             <span>MANPOWER</span> <span class="slide_st1">SERVICES</span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                            Lionman Commandos certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
+                        We also offer manpower for any task – both on long term basis and short erm basis. Complete HR services will be provided including recruiting (if required), wages distribution and all statutory payments. We offer recruiting, HR, wages distribution, ESI deposition, EPF deposition, GST deposition etc. This will help your company to concentrate on core business and leave complete HR process to us.
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                         <span>Housekeeping</span> <span class="slide_st1">Services </span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                        Lionman Commandos Certification  provides ISO certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
+                        Lionman Commandos Certification  provides office area, furniture, equipment, floor, toilets, windows, carpets, computers, pantry, tiles etc. We have the best of advanced equipment, environment friendly cleansing agents and experienced and verified staff.
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                             <span>Security</span> <span class="slide_st1">   Services </span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                        Lionman Commandos Certification  provides ISO certification, training, auditing and other certification services that reduces risks and saves time for organizations while educating, empowering and enabling leadership to implement, improve and integrate management systems and strategic initiatives.
+                        Lionman Commandos Certification guarding services, office Security, commercial & industrial security, CCTV monitoring, etc
                         </div>
                     </div>
                 </div>
