@@ -89,9 +89,8 @@ class ServicesController extends Controller
             'service' => 'required',
             'message' => 'required',
         ]);
-       
         try {
-            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new getaquote($request, $filename));
+            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new getaquote($request));
         } catch (\Exception $e) {
             Log::error('getqueote: failed to send client email.', [
                 $e->getMessage(),
