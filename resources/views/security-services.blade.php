@@ -22,7 +22,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                 <div class="col-lg-8 col-sm-5 col-xs-12">
                     <div class="row">
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/service/housekeeping.svg" class="img-fluid serviceIcon">
+                        <img src="/images/icon/Guarding-Services.png" class="img-fluid imageicon serviceIcon">
                         <h3 class="serv-left textCenter" style="">Guarding Services</h3>
                         <ul>
                         @foreach($guarding_services as $service)
@@ -31,7 +31,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                         </ul>
                         </div>
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/service/housekeeping.svg" class="img-fluid serviceIcon">
+                        <img src="/images/icon/Office-Security.png" class="img-fluid imageicon serviceIcon">
                         <h3 class="serv-left textCenter" style="">Office Security</h3>
                         <ul>
                         @foreach($office_security as $service)
@@ -42,7 +42,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                 </div>
                 <div class="row">
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/service/housekeeping.svg" class="img-fluid serviceIcon">
+                        <img src="/images/icon/Commercial-&-Industrial-Security.png" class="img-fluid imageicon serviceIcon">
                         <h3 class="serv-left textCenter" style="">Commercial & Industrial Security</h3>
                         <ul>
                         @foreach($commercial as $service)
@@ -51,7 +51,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                         </ul>
                         </div>
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/service/housekeeping.svg" class="img-fluid serviceIcon">
+                        <img src="/images/icon/CCTV-Monitoring.png" class="img-fluid imageicon serviceIcon">
                         <h3 class="serv-left textCenter" style="">CCTV Monitoring</h3>
                         <p>As a leading provider of CCTV remote monitoring services for commercial and non-commercial assets, our remote software enables you to monitor your premises 24/7 to ensure on-site safety. Video surveillance services are designed for real-time video surveillance, monitoring threats, tracking intruders, and alerting organizations when needed.</p>
                     </div>
