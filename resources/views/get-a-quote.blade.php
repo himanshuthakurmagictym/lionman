@@ -6,7 +6,7 @@
             <!-- <div id="map" class="map-container"></div> -->
            <br>
             <!-- Google Map -->
-            <div class="col-lg-6 col-lg-offset-3 col-sm-10 col-sm-offset-1">
+            <div class="col-lg-8 col-lg-offset-2 col-sm-10 col-sm-offset-1">
                 <!-- Start: Heading -->
                 <div class="base-header">
                     <h3> REQUEST A <span class="ylow_clr">FREE QUOTES</span></h3>

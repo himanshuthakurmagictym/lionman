@@ -22,19 +22,19 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                 <div class="col-lg-8 col-sm-5 col-xs-12">
                     <div class="row">
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/icon/Office-Cleaning-&-Maintenance.png" class="img-fluid serviceIcon imageicon">
+                        <img src="/images/icon/Office-Cleaning-&-Maintenance.png" class="img-fluid  imageicon">
                         <h3 class="serv-left textCenter" style="">Office Cleaning & Maintenance</h3>
                        <p>We take care of the office area, furniture, equipment, floor, toilets, windows, carpets, computers, pantry, tiles etc. We have the best of advanced equipment, environment friendly cleansing agents and experienced and verified staff.</p>
                         </div>
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/icon/Vegetation-Pruning-&-Cutting.png" class="img-fluid serviceIcon imageicon">
+                        <img src="/images/icon/Vegetation-Pruning-&-Cutting.png" class="img-fluid  imageicon">
                         <h3 class="serv-left textCenter" style="">Vegetation Pruning & Cutting</h3>
                         <p>In open areas especially around Air Force Stations, Ammunition dumps; there is excessive growth of shrubs, vegetation etc which needs to be cut and removed to reduce chances of fire. We have experience of managing the same in high security zones.</p>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row" stayle="    margin-top: 60px;">
                         <div class="col-lg-6 serviceBox" >
-                        <img src="/images/icon/Home-Cleaning.png" class="img-fluid serviceIcon imageicon">
+                        <img src="/images/icon/Home-Cleaning.png" class="img-fluid  imageicon">
                         <h3 class="serv-left textCenter" style="">Home Cleaning</h3>
                        <p>We offer a host of services in home cleaning. Some of them are- Home deep cleaning, Sofa shampooing, Bathroom cleaning, Pest control, Carpet shampooing, Chimney cleaning, Windows Cleaning, Fridge cleaning, Kitchen cleaning, Combo offer, Marble floor polishing, Office cleaning, Disinfection services, Curtain cleaning etc.</p>
                         </div>

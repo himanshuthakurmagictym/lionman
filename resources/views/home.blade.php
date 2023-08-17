@@ -129,7 +129,8 @@
                         <img src="/images/service/housekeeping.svg" class="img-fluid serviceIcon">
                       
                             <h5 class="serv-left"> Housekeeping Services</h5>
-                            <p>We offer total HR solution. There is no need to bother about recruitment, retention, payments and other management hassles and you</p>   
+                            <p>We offer total HR solution. There is no need to bother about Recruitment, Retention, Office Cleaning & Maintenance, Vegetation Pruning & Cutting, Home Cleaning payments and other management hassles.
+</p>   
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -141,7 +142,10 @@
                         <img src="/images/service/manpower.svg" class="img-fluid serviceIcon">
                       
                             <h5 class="serv-left">Manpower Services </h5>
-                            <p>Lionman Commandos provides superior caretaking and housekeeping facilities for ATMs. Our staff is highly trained and professional when</p>     
+                            <p>Lionman Commandos provides Contract Staffing, Office Manpower, Payroll Management, Superior Caretaking and Housekeeping facilities for ATMs. Our staff is highly trained and professional.
+
+
+</p>     
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -154,7 +158,7 @@
                         
                           
                             <h5 class="serv-left">Facility Management</h5> 
-                            <p>At Lionman Commandos, we believe in providing end to end services. Keeping this in mind, we offer security for civil/ structural consultation, civil contractors, e l ectrical</p>
+                            <p>At Lionman Commandos, we believe in providing end to end services. Keeping this in mind, we offer security for Civil/ Structural Consultation, Civil Contractors, Building Management, Real Estate Management electrical.</p>
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -167,7 +171,8 @@
                             <img src="/images/service/security.svg" class="img-fluid serviceIcon">
                            
                             <h5 class="serv-left">Security Services </h5>
-                            <p>A professional company to manage administrative, statutory, HR-related needs of your outsourced employees. <br/></p>
+                            <p>A professional company to manage Administrative, Statutory, Home Security, PSO, Bouncers, Vehicle With Security, Armed Guards, Residential needs of your outsourced employees.
+ <br/></p>
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -218,12 +223,12 @@
                 </div>
                 <div class="col-lg-2 col-sm-5 boxblink">
                 <div>
-                <div></div>commitment
+                <div></div>Commitment
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-5 boxblink">
                 <div>
-                <div></div>excellent
+                <div></div>Excellent
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-5 boxblink">

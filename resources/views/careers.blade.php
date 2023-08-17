@@ -10,7 +10,7 @@
                 <!-- Start: Heading -->
                 <div class="base-header">
                     <h3> Apply  <span class="ylow_clr">Now</span></h3>
-                    <p>Finnd your dream job with us. Apply now and we will get in touch with you. </p>
+                    <p>Find your dream job with us. Apply now and we will get in touch with you. </p>
                 </div>
                 <!-- End:  heading -->
             </div>
