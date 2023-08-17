@@ -19,7 +19,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                     <!--/About right-->
                 </div>
                 <!--/.col-lg-6 col-md-8 col-md-7-->
-                <div class="col-lg-8 col-sm-5 col-xs-12">
+                <div class="col-lg-8 col-sm-5 col-xs-12" style="margin-top: 60px;">
                     <div class="row">
                         <div class="col-lg-6 serviceBox" >
                         <img src="/images/icon/Building-Management.png" class="img-fluid  imageicon">

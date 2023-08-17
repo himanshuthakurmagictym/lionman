@@ -11,7 +11,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
 <section class="about-section aboutpg">
         <div class="container">
             
-            <div class="row">
+            <div class="row" >
                 <div class="col-lg-4 col-sm-5 col-xs-12">
                     <!--About right-->
                     <div class=" about-right keyimage "><img alt="about" class="about-img_1" src="images/key.png">
@@ -19,7 +19,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                     <!--/About right-->
                 </div>
                 <!--/.col-lg-6 col-md-8 col-md-7-->
-                <div class="col-lg-8 col-sm-5 col-xs-12">
+                <div class="col-lg-8 col-sm-5 col-xs-12" style="margin-top: 60px;">
                     <div class="row">
                         <div class="col-lg-6 serviceBox" >
                         <img src="/images/icon/Guarding-Services.png" class="img-fluid imageicon ">
