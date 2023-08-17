@@ -40,7 +40,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                         </ul>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-top: 60px;">
                         <div class="col-lg-6 serviceBox" >
                         <img src="/images/icon/Commercial-&-Industrial-Security.png" class="img-fluid imageicon ">
                         <h3 class="serv-left textCenter" style="">Commercial & Industrial Security</h3>

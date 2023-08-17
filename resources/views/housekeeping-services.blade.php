@@ -32,7 +32,7 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                         <p>In open areas especially around Air Force Stations, Ammunition dumps; there is excessive growth of shrubs, vegetation etc which needs to be cut and removed to reduce chances of fire. We have experience of managing the same in high security zones.</p>
                     </div>
                 </div>
-                <div class="row" stayle="    margin-top: 60px;">
+                <div class="row" style="margin-top: 60px;">
                         <div class="col-lg-6 serviceBox" >
                         <img src="/images/icon/Home-Cleaning.png" class="img-fluid  imageicon">
                         <h3 class="serv-left textCenter" style="">Home Cleaning</h3>
