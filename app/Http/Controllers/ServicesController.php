@@ -48,6 +48,7 @@ class ServicesController extends Controller
             'mobile' => 'required',
             'email' => 'required|email',
             'message' => 'required',
+            'resume' => 'required',
         ]);
         $resume = $request->file('resume');
         $name = time().'.'.$resume->getClientOriginalExtension();;
