@@ -142,7 +142,7 @@
                         <img src="/images/service/manpower.svg" class="img-fluid serviceIcon">
                       
                             <h5 class="serv-left">Manpower Services </h5>
-                            <p>Lionman Commandos provides Contract Staffing, Office Manpower, Payroll Management, Superior Caretaking and Housekeeping facilities for ATMs. Our staff is highly trained and professional.
+                            <p>Lionman Commandos provides Contract Staffing, Office Manpower, Payroll Management, Superior Caretaking and Housekeeping facilities. Our staff is highly trained and professional.
 
 
 </p>     

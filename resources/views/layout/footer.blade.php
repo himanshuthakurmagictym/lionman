@@ -54,7 +54,7 @@
                                <ul style="list-style: none; padding: 0 0 0 20px; font-size: 18px;">
                                 <p><li>
                                  <i class="fa fa-envelope"></i> : Lionman Commandos@gmail.com</li>
-                                <li><i class="fa fa-phone"></i> : +91 73039 75754</li>
+                                <li><i class="fa fa-phone"></i> : +91 7015512160</li>
                                 <li><i class="fa fa-home"></i> : New Delhi - 110085 </li></p>
                                </ul>
                                 
