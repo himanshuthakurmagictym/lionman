@@ -27,7 +27,7 @@ class ServicesController extends Controller
         ]);
 
         try {
-            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new contact($request));
+            Mail::to(env("MAIL_TO_ADDRESS"))->send(new contact($request));
             Log::debug('contactForm: client email sent.');
         } catch (\Exception $e) {
             Log::error('contactForm: failed to send client email.', [
@@ -62,7 +62,7 @@ class ServicesController extends Controller
         $filename = $path.'/'.$name;
 
         try {
-            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new career($request, $filename));
+            Mail::to(env("MAIL_TO_ADDRESS"))->send(new career($request, $filename));
         } catch (\Exception $e) {
             Log::error('contactForm: failed to send client email.', [
                 $e->getMessage(),
@@ -91,7 +91,7 @@ class ServicesController extends Controller
             'message' => 'required',
         ]);
         try {
-            Mail::to(env("MAIL_FROM_ADDRESS"))->send(new getaquote($request));
+            Mail::to(env("MAIL_TO_ADDRESS"))->send(new getaquote($request));
         } catch (\Exception $e) {
             Log::error('getqueote: failed to send client email.', [
                 $e->getMessage(),
