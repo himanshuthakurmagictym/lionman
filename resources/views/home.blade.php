@@ -570,7 +570,7 @@
                     <div class="col-lg-12">
                         <!--  Contact Form  -->
                         <div class="contact-form">
-                            <form method="post" action="mailer.php" id="contact-form">
+                            <form method="post" action="{{ route('contactForm') }}" id="contact-form">
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <input class="con-field" name="name" id="name" type="text" placeholder="Name">
