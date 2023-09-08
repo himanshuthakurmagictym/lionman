@@ -19,7 +19,7 @@
 
                         <h4 class="subred"> WE ARE HIGHLY WELL-KNOWN IN THE MARKET FOR DELIVERING PREEMINENT AND CONSISTENT SECURITY SERVICES</h4>
 
-                        <p> Lionman Commandos is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. We are MSME, Udhyam and NSIC registered. We provide manpower solutions across a multitude of verticals- all kinds of manpower outsourcing be it technical, non-technical, clerical, house- keeping, sanitation, cleaning, vegetation clearance, drivers, construction workers etc. We provide the entire spectrum of manpower</p>
+                        <p> Lionman Commandos is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more  than 4 years' experience in this field. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. We are MSME, Udhyam and NSIC registered. We provide manpower solutions across a multitude of verticals- all kinds of manpower outsourcing be it technical, non-technical, clerical, house- keeping, sanitation, cleaning, vegetation clearance, drivers, construction workers etc. We provide the entire spectrum of manpower</p>
                         <a href="{{route('contact')}}" class="more-link text-white">Contact Us</a>
                     </div>
                     <!--/About Left-->
