@@ -46,6 +46,7 @@
                 <div class="col-lg-4">
                     <div class="redbox">
                         <img src="/images/icon/Office-Cleaning-&-Maintenance.png" class="img-fluid  imageicon">
+                        
                         <h3 class="serv-left textCenter" style="">COMPANY</h3>
                        <p>We are led by an experienced team of persons who have a splendid and varied experience in the field of HR & security. We have a team of fully trained and skilled staff.</p>
                     </div>
