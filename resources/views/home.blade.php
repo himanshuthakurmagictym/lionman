@@ -59,7 +59,7 @@
                             <span>Security</span> <span class="slide_st1">   Services </span>
                         </div>
                         <div class="tp-caption small-content customin customout rs-title-small bg-sld-cp-primary tp-resizeme rs-parallaxlevel-0 wow zoomInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-                        Lionman Commandos Certification guarding services, office Security, commercial & industrial security, CCTV monitoring, etc
+                        Lionman Commandos Certification guarding services, office Security, commercial & industrial security, security services, etc
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                     <!--About Left-->
                     <div class="about-left">
                         <h3>LIONMAN <span class="ylow_clr">COMMANDOS</span> </h3>
-                        <p>Lionman Commandos is one of the leading service providers of Human Resources including Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more experience in this ﬁeld. We have ISO-9001:2008, ISO- 9001 : 2015 , ISO- 45001 : 2018 , ISO- 45001:2018, SA8000:2014 & PSARA-2005 certiﬁcation. </p>
+                        <p>Lionman Commandos is one of the leading service providers of Human Resources including manpower & Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more experience in this ﬁeld. We have ISO-9001:2008, ISO-9001:2015, ISO-45001:2018, SA8000:2014, PSARA2009, ISO-14001:2018, ISO-18788:2015, ISO-27001:2013, ISO-26000:2010, ISO-10667-1:2011, ISO-10677-2:2020 certiﬁcation. </p>
                   
 						<a href="/about.php"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
                     </div>

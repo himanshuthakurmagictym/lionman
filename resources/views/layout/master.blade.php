@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Lionman Commandos</title>
         <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="BusinessTwin - Multi-Purpose Responsive Website Template" />
@@ -49,10 +49,10 @@
     
     </head>
     <body>
-    <a style="    position: absolute;" href="tel:+91-9654188888" class="social-icon whatsapp"><img src="/images/call.png" style="    position: fixed;
+    <a style="    position: absolute;" href="tel:+917015512160" class="social-icon whatsapp"><img src="/images/call.png" style="    position: fixed;
     width: 70px; right:0px; z-index:11;
     bottom: 0px;"   /></a>	
-     <a style="    position: absolute;" href="https://api.whatsapp.com/send?phone=918130589999&text=Hi, I contacted you Through your website." class="social-icon whatsapp" class="social-icon whatsapp"><img src="/images/whatsapp.png" style="    position: fixed;
+     <a style="    position: absolute;" href="https://api.whatsapp.com/send?phone=917015512160&text=Hi, I contacted you Through your website." class="social-icon whatsapp" class="social-icon whatsapp"><img src="/images/whatsapp.png" style="    position: fixed;
     width: 70px; left:0px; z-index:11;
     bottom: 0px;"   /></a>
         @include('layout.header')
