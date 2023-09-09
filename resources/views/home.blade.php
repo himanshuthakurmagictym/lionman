@@ -463,8 +463,8 @@
             <div class="ec-item-wrap ">
 						<span> <i class="fa fa-users" aria-hidden="true"></i></span>
 					    <div class="ec-right-content">
-                            <span class="ec-count-number counter" data-enable='off' >100+</span>
-                            <div class="ec-count-title">Customers</div>
+                            <span class="ec-count-number counter" data-enable='off' >100</span>
+                            <span> + </span><div class="ec-count-title">Customers</div>
 						</div>
             </div>
             </div>
@@ -473,9 +473,9 @@
             <div class="ec-item-wrap ">
 					<span><i class="fa fa-globe" aria-hidden="true"></i></span>
 					<div class="ec-right-content">
-				        <span class="ec-count-number counter" data-enable='off' >26+
+				        <span class="ec-count-number counter" data-enable='off' >26
 </span>
-		                <div class="ec-count-title">Locations</div>
+<span> + </span><div class="ec-count-title">Locations</div>
 					</div> 
             </div>
             </div>
@@ -483,8 +483,8 @@
             <div class="ec-item-wrap ">
 						<span><i class="fa fa-user" aria-hidden="true"></i></span>
 						<div class="ec-right-content">
-                            <span class="ec-count-number counter" data-enable='off' >600+</span>
-		                    <div class="ec-count-title">Team Members</div>
+                            <span class="ec-count-number counter" data-enable='off' >600</span>
+                            <span> + </span><div class="ec-count-title">Team Members</div>
 						</div> 
             </div>
             </div>
