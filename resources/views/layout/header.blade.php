@@ -14,10 +14,10 @@ $manpower = \App\Models\Services::where(['service_category' => 'manpower'])->get
                 <div class="row">
                     <div class="header_top_left">
                         <ul class="header_socil list-inline pull-left">
-                            <li><a href="https://www.facebook.com/" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                            <li><a href="https://instagram.com/" class="fa fa-instagram"></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=100063618322168&mibextid=ZbWKwL" class="fa fa-facebook"></a></li>
+                            <li><a href="https://twitter.com/LionmanC65239?t=WXBlY9BJfYy0uG7vbfV5BA&s=08" class="fa fa-twitter"></a></li>
+                            <li><a href="https://www.linkedin.com/in/vipin-rai-aa2603240" class="fa fa-linkedin"></a></li>
+                            <li><a href="https://instagram.com/sanje_ev1084?utm_source=qr&igshid=OGIxMTE0OTdkZA" class="fa fa-instagram"></a></li>
                         </ul>
                     </div>
 					<div class="header_top_right list-unstyled"> 
