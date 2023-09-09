@@ -62,7 +62,7 @@ class ServicesController extends Controller
         $filename = $path.'/'.$name;
 
         try {
-            Mail::to(env("MAIL_TO_ADDRESS"))->send(new career($request, $filename));
+            Mail::to("career@lionmancommandos.com")->send(new career($request, $filename));
         } catch (\Exception $e) {
             Log::error('contactForm: failed to send client email.', [
                 $e->getMessage(),

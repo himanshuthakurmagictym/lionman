@@ -27,7 +27,7 @@
                     </div>
                 </div>
 				    <div class="button tp-caption customin rs-parallaxlevel-0 wow zoomInUp" data-wow-delay="0.3s" data-wow-duration="3s">
-                        <a href="/contact.php" class="slide_btm">Contact Us</a>
+                        <a href="{{route('contact')}}" class="slide_btm">Contact Us</a>
                     </div>
                 <!-- End: slider content-->
             </div>
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 				    <div class="button tp-caption customin rs-parallaxlevel-0 wow zoomInUp" data-wow-delay="0.3s" data-wow-duration="3s">
-                        <a href="/contact.php" class="slide_btm">Contact Us</a>
+                        <a href="{{route('contact')}}" class="slide_btm">Contact Us</a>
                     </div>
                 <!-- End: slider content-->
             </div>
@@ -64,7 +64,7 @@
                     </div>
                 </div>
 				    <div class="button tp-caption customin rs-parallaxlevel-0 wow zoomInUp" data-wow-delay="0.3s" data-wow-duration="3s">
-                        <a href="/contact.php" class="slide_btm">Contact Us</a>
+                        <a href="{{route('contact')}}" class="slide_btm">Contact Us</a>
                     </div>
                 <!-- End: slider content-->
             </div>
@@ -96,7 +96,7 @@
                         <h4 class="subred"> WE ARE HIGHLY WELL-KNOWN IN THE MARKET FOR DELIVERING PREEMINENT AND CONSISTENT SECURITY SERVICES</h4>
                         <p>Lionman Commandos is one of the leading service providers of Human Resources including manpower & Security Personnel for an entire gamut of industries and Events. We have highly trained, qualiﬁed and motivated staff with more experience in this ﬁeld. We have ISO-9001:2008, ISO-9001:2015, ISO-45001:2018, SA8000:2014, PSARA2009, ISO-14001:2018, ISO-18788:2015, ISO-27001:2013, ISO-26000:2010, ISO-10667-1:2011, ISO-10677-2:2020 certiﬁcation. </p>
                   
-						<a href="/about.php"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
+						<a href="{{route('about-us')}}"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
                     </div>
                     <!--/About Left-->    
                 </div>
@@ -284,7 +284,7 @@
                         <h3>Lionman Commandos  <span class="ylow_clr">Mission</span> </h3>
                         <p>Our aim is to provide such an excellent experience to our clients that they are more than satisfied and keep coming back to us. Our main focus is on clear and concise communication with both the clients and the resources. We combine on field experience of our seasoned experts and advanced technology to strive towards perfection across all the services we provide. Our ethics, morals, time commitment and aﬀordability makes us stand out from the crowd. Our resources are fully trained, disciplined, trustworthy and professional.</p>
                   
-						<a href="/about.php"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
+						<a href="{{route('about-us')}}"><span class="serv-learn hvr-float-shadow">READ MORE <i class="arrow_right"></i></span></a>
                     </div>
                     <!--/About Left-->    
                 </div>
@@ -463,7 +463,7 @@
             <div class="ec-item-wrap ">
 						<span> <i class="fa fa-users" aria-hidden="true"></i></span>
 					    <div class="ec-right-content">
-                            <span class="ec-count-number counter" data-enable='off' >20000</span>
+                            <span class="ec-count-number counter" data-enable='off' >100+</span>
                             <div class="ec-count-title">Customers</div>
 						</div>
             </div>
@@ -473,7 +473,8 @@
             <div class="ec-item-wrap ">
 					<span><i class="fa fa-globe" aria-hidden="true"></i></span>
 					<div class="ec-right-content">
-				        <span class="ec-count-number counter" data-enable='off' >16</span>
+				        <span class="ec-count-number counter" data-enable='off' >26+
+</span>
 		                <div class="ec-count-title">Locations</div>
 					</div> 
             </div>
@@ -482,7 +483,7 @@
             <div class="ec-item-wrap ">
 						<span><i class="fa fa-user" aria-hidden="true"></i></span>
 						<div class="ec-right-content">
-                            <span class="ec-count-number counter" data-enable='off' >17000</span>
+                            <span class="ec-count-number counter" data-enable='off' >600+</span>
 		                    <div class="ec-count-title">Team Members</div>
 						</div> 
             </div>
