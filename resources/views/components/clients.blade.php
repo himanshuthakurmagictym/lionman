@@ -13,7 +13,7 @@
                     <!-- Start: Client Section -->
                     <div class="owl-carousel owl-theme col-md-12" id="client">
                         <!-- client 1 -->
-                        @for($j=1; $j<11; $j++)
+                        @for($j=1; $j<10; $j++)
                         <div class="item row">
                             <div class="col-md-12">
                                 <div class="client-box"><img alt="client" src="images/background/{{ $j }}.jpg">
@@ -22,7 +22,7 @@
                         </div>
                         @endfor
 
-                        @for($i=1; $i<28; $i++)
+                        @for($i=1; $i<26; $i++)
                         <div class="item row">
                             <div class="col-md-12">
                                 <div class="client-box"><img alt="client" src="images/background/logo-{{ $i }}.jpg">

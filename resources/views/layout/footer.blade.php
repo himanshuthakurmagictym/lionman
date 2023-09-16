@@ -1,3 +1,7 @@
+@php
+
+$guarding_services = \App\Models\Services::where(['service_category' => 'guarding_services'])->get();
+@endphp
 <footer class="footer-section">
         <div class="container">
             <div class="row">
@@ -24,21 +28,9 @@
                     <div class="widget">
                         <h5>Our Services</h5>
                         <ul style="    -webkit-text-fill-color: white;">
-                        <li><a href="service/" title="9001">Home Security</a>
-									</li>
-									<li><a href="service/" title="14001">PSO</a>
-									</li>
-                                  
-                                    <li><a href="service/" title="20000">Bouncers</a>
-									</li>
-                                    <li><a href="service/" >Vehicle with Security</a>
-									</li>
-
-                                    <li><a href="service/" >Armed Guards</a>
-									</li>
-                                    <li><a href="service/" >Residential Society Security   </a>
-									</li>
-                                    
+                                            @foreach($guarding_services as $service)
+                                            <li><a href="{{route('services',['id'=>$service->slug])}}" style="color:white;">{{$service->service_name}}</a></li>
+                                            @endforeach                                    
                            
                         </ul>
                     </div>

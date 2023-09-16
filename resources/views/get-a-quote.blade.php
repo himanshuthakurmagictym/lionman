@@ -50,8 +50,10 @@
                                     <div class="col-lg-4">
                                     <select name="area" class="form-control" id="">
                                         <option value="serviceArea">service Area</option>
-                                        <option value="New York">New York</option>
-                                        <option value="Los Angles">Los Angles</option>
+                                        <option value="DELHI">DELHI</option>
+                                        <option value="HARIYANA">HARIYANA</option>
+                                        <option value="PUNJAB">PUNJAB</option>
+                                        <option value="UP">UP</option>
                                         <option value=""></option>
                                        </select>
                                     </div>
@@ -74,8 +76,8 @@
                                     <div class="col-lg-4">
                                     <select name="service" class="form-control" id="">
                                         <option value="">service Needed By</option>
-                                        <option value="Bank security">Bank security</option>
-                                        <option value="Office security">Office security</option>
+                                        <option value="hospital">Hospital</option>
+                                        <option value="stores">Stores</option>
                                       
                                        </select>
                                     </div>

@@ -71,7 +71,7 @@
  
  p {
      font-weight: normal;
-     font-size: 18px;
+     font-size: 17px;
      font-family: Poppins,sans-serif; 
      line-height: 1.7;
      hyphens: auto;
@@ -3343,10 +3343,14 @@ hyphens: auto;
 
 .ec-item-wrap span {
     font-size: 50px;
-    padding-right: 15px;
+    /* padding-right: 15px; */
 }
 .ec-count-title{
     font-size: 23px;
+}
+
+.ec-item-wrap span i {
+    padding-right: 15px
 }
 
 .serviceBox{

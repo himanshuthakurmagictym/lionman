@@ -173,7 +173,7 @@
                            
                             <h5 class="serv-left">Security Services </h5>
                             <p>A professional company to manage Administrative, Statutory, Home Security, PSO, Bouncers, Vehicle With Security, Armed Guards, Residential needs of your outsourced employees.
- <br/></p>
+ <br/><br/></p>
                         </div>
                         </a>
                         <!-- End: .about-item -->
@@ -464,7 +464,7 @@
 						<span> <i class="fa fa-users" aria-hidden="true"></i></span>
 					    <div class="ec-right-content">
                             <span class="ec-count-number counter" data-enable='off' >100</span>
-                            <span> + </span><div class="ec-count-title">Customers</div>
+                           <span>+ </span><div class="ec-count-title">Customers</div>
 						</div>
             </div>
             </div>
@@ -474,8 +474,7 @@
 					<span><i class="fa fa-globe" aria-hidden="true"></i></span>
 					<div class="ec-right-content">
 				        <span class="ec-count-number counter" data-enable='off' >26
-</span>
-<span> + </span><div class="ec-count-title">Locations</div>
+</span><span>+ </span><div class="ec-count-title">Locations</div>
 					</div> 
             </div>
             </div>
@@ -484,7 +483,7 @@
 						<span><i class="fa fa-user" aria-hidden="true"></i></span>
 						<div class="ec-right-content">
                             <span class="ec-count-number counter" data-enable='off' >600</span>
-                            <span> + </span><div class="ec-count-title">Team Members</div>
+                        <span>+ </span><div class="ec-count-title">Team Members</div>
 						</div> 
             </div>
             </div>
@@ -555,7 +554,8 @@
     <section class="contact-section">
         <div class="container-fulid">
             <!-- <div id="map" class="map-container"></div> -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27992.523239294274!2d77.09088930025085!3d28.71759130958075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d06b3bacc1ddf%3A0x2d9729d6af1f5733!2sNew%20Delhi%2C%20Delhi%20110085!5e0!3m2!1sen!2sin!4v1667977402795!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7006.116022006755!2d77.0713745988308!3d28.59803645273432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRZB-33%2C%202nd%20Floor%2C%20Mahavir%20Enclave%20Part-1%2C%20New%C2%A0Delhi-110045!5e0!3m2!1sen!2sin!4v1694882117355!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
             <!-- Google Map -->
             <div class="col-lg-6 col-lg-offset-3 col-sm-10 col-sm-offset-1">
                 <!-- Start: Heading -->
