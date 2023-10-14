@@ -338,46 +338,20 @@
             <div class="row">
                 <div class="owl-carousel owl-theme" id="team">
                  
-                    <div class="item">
-                       
-                        <div class="member">
-                            <div class="img">
-                                <div class="timg_overlay">
-                                    <img alt="team" class="img-responsive" src="images/team/2.jpg">
-                                </div>
-                                <div class="team_icon"><a href="team.html"><i class="icon_link"></i></a>
-                                </div>
-                                <div class="info">
-                                    <h6>Bob Martines</h6>
-                                    <p>Co Founder</p>
-                                    <ul class="social list-inline">
-                                        <li>
-                                            <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="Follow Us on Twitter"><i class="fa fa-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  
                      
                     <div class="item">
                         <div class="member">
                             <div class="img">
                                 <div class="timg_overlay">
-                                    <img alt="team" class="img-responsive" src="images/team/1.jpg">
+                                    <img alt="team" class="img-responsive" src="images/team/sanjeev_kumar.jpg">
                                 </div>
-                                <div class="team_icon"><a href="team.html"><i class="icon_link"></i></a>
+                                <div class="team_icon">
                                 </div>
                                 <div class="info">
-                                    <h6>Bob Martines</h6>
-                                    <p>Manager</p>
-                                    <ul class="social list-inline">
+                                    <h6>Sanjeev Kumar</h6>
+                                    <p>Director - Sales and Marketing</p>
+                                    <!-- <ul class="social list-inline">
                                         <li>
                                             <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
                                         </li>
@@ -387,7 +361,7 @@
                                         <li>
                                             <a href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -397,14 +371,14 @@
                         <div class="member">
                             <div class="img">
                                 <div class="timg_overlay">
-                                    <img alt="team" class="img-responsive" src="images/team/3.jpg">
+                                    <img alt="team" class="img-responsive" src="images/team/anand_rai.jpg">
                                 </div>
-                                <div class="team_icon"><a href="team.html"><i class="icon_link"></i></a>
+                                <div class="team_icon">
                                 </div>
                                 <div class="info">
-                                    <h6>Bob Martines</h6>
-                                    <p>Developer</p>
-                                    <ul class="social list-inline">
+                                    <h6>Anand Rai</h6>
+                                    <p>director - Operation and finance</p>
+                                    <!-- <ul class="social list-inline">
                                         <li>
                                             <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
                                         </li>
@@ -414,7 +388,7 @@
                                         <li>
                                             <a href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -425,14 +399,14 @@
                         <div class="member">
                             <div class="img">
                                 <div class="timg_overlay">
-                                    <img alt="team" class="img-responsive" src="images/team/4.jpg">
+                                    <img alt="team" class="img-responsive" src="images/team/vipin_rai.jpg">
                                 </div>
-                                <div class="team_icon"><a href="team.html"><i class="icon_link"></i></a>
+                                <div class="team_icon">
                                 </div>
                                 <div class="info">
-                                    <h6>Bob Martines</h6>
-                                    <p>Designer</p>
-                                    <ul class="social list-inline">
+                                    <h6>Vipin Rai </h6>
+                                    <p>Director</p>
+                                    <!-- <ul class="social list-inline">
                                         <li>
                                             <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
                                         </li>
@@ -442,12 +416,97 @@
                                         <li>
                                             <a href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
 
                             </div>
                         </div>
                     </div>
+
+                    <div class="item">
+                       
+                       <div class="member">
+                           <div class="img">
+                               <div class="timg_overlay">
+                                   <img alt="team" class="img-responsive" src="images/team/4.jpg">
+                               </div>
+                               <div class="team_icon">
+                               </div>
+                               <div class="info">
+                                   <h6>Akshita Gupta</h6>
+                                   <p>ABL - CEO</p>
+                                   <!-- <ul class="social list-inline">
+                                       <li>
+                                           <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
+                                       </li>
+                                       <li>
+                                           <a href="#" title="Follow Us on Twitter"><i class="fa fa-twitter"></i></a>
+                                       </li>
+                                       <li>
+                                           <a href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a>
+                                       </li>
+                                   </ul> -->
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+
+                    <div class="item">
+
+                        <div class="member">
+                            <div class="img">
+                                <div class="timg_overlay">
+                                    <img alt="team" class="img-responsive" src="images/team/4.jpg">
+                                </div>
+                                <div class="team_icon">
+                                </div>
+                                <div class="info">
+                                    <h6>Darunendra dachar  </h6>
+                                    <p>Mayabious art LLP</p>
+                                   
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+
+                        <div class="member">
+                            <div class="img">
+                                <div class="timg_overlay">
+                                    <img alt="team" class="img-responsive" src="images/team/4.jpg">
+                                </div>
+                                <div class="team_icon">
+                                </div>
+                                <div class="info">
+                                    <h6>Manik Jain director</h6>
+                                    <p>Vijay sales</p>
+                                   
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+
+                            <div class="member">
+                                <div class="img">
+                                    <div class="timg_overlay">
+                                        <img alt="team" class="img-responsive" src="images/team/4.jpg">
+                                    </div>
+                                    <div class="team_icon">
+                                    </div>
+                                    <div class="info">
+                                        <h6>Sourabh Kapoor</h6>
+                                        <p>director</p>
+                                    
+                                    </div>
+
+                                </div>
+                            </div>
+                            </div>
                  
                 </div>
             </div>
