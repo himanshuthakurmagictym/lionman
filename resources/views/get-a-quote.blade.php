@@ -52,7 +52,7 @@
                                         <option value="serviceArea">service Area</option>
                                         <option value="DELHI">DELHI</option>
                                         <option value="HARIYANA">HARIYANA</option>
-                                        <option value="UP">UP</option>
+                                        <option value="UP">Uttar Pardesh</option>
                                         <optgroup label="Other Services area">
                                             <option value="Kerala">Kerala</option>
                                             <option value="karnattaka">karnattaka</option>
