@@ -52,7 +52,6 @@
                                         <option value="serviceArea">service Area</option>
                                         <option value="DELHI">DELHI</option>
                                         <option value="HARIYANA">HARIYANA</option>
-                                        <option value="PUNJAB">PUNJAB</option>
                                         <option value="UP">UP</option>
                                         <optgroup label="Other Services area">
                                             <option value="Kerala">Kerala</option>
