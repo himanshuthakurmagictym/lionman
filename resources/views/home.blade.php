@@ -571,12 +571,13 @@
                                 <div class="col-lg-3 col-sm-3 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
                                 </div>
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
-                                    <span class="tes-nam">John Watson</span>
+                                    <span class="tes-nam">Rahul Gupta</span>
                                     <br>
-                                    <span class="tes-degree">CEO At Google</span>
+                                    <span class="tes-degree">Director in Gupta Industries</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
-                                    <p>Lorem ipsum dolor sit amet, et verear noluisse eum, diam congue atomorum his id, pri te hinc expetenda. Est an mundi tollit iuvaret. An ius postulant reformidans. Vel an elit ludus fabellas, ex quando adipisci accommodare usu.</p>
+                                    <p>Lionman Commandos is best manpower services provided company. They complete projects on time or ahead of schedule and are very reasonably priced. I highly recommend them!
+</p>
                                 </div>
                             </div>
                             <!--End: Testimonial 1 -->
@@ -587,12 +588,27 @@
                                 <div class="col-lg-3 col-sm-3 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
                                 </div>
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
-                                    <span class="tes-nam">Lydia Park</span>
+                                    <span class="tes-nam">Rahul Sharma</span>
                                     <br>
-                                    <span class="tes-degree">CEO At Twitter</span>
+                                    <span class="tes-degree">Director in MagicDance</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
-                                    <p>Lorem ipsum dolor sit amet, et verear noluisse eum, diam congue atomorum his id, pri te hinc expetenda. Est an mundi tollit iuvaret. An ius postulant reformidans. Vel an elit ludus fabellas, ex quando adipisci accommodare usu.</p>
+                                    <p>They have best security services, very professional towards their commitment. They know how to get the job done. Nice company</p>
+                                </div>
+                            </div>
+                            <!--End: Testimonial 3 -->
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-box">
+                                <div class="col-lg-3 col-sm-3 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
+                                </div>
+                                <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
+                                    <span class="tes-nam">Chetan Thakur</span>
+                                    <br>
+                                    <span class="tes-degree">CEO in WaytoSuccess</span>
+                                </div>
+                                <div class="col-lg-12 col-sm-12">
+                                    <p>I am pleased with the performance of the Security Planet Services staff assigned to our facilities. The management responds quickly to questions and needs. I would definitely recommend Security Planet Services to others.</p>
                                 </div>
                             </div>
                             <!--End: Testimonial 3 -->

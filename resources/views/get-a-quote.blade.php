@@ -54,7 +54,14 @@
                                         <option value="HARIYANA">HARIYANA</option>
                                         <option value="PUNJAB">PUNJAB</option>
                                         <option value="UP">UP</option>
-                                        <option value=""></option>
+                                        <option value="Kerala">Kerala</option>
+                                        <option value="karnattaka">karnattaka</option>
+                                        <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                        <option value="Hariyana">Hariyana</option>
+                                        <option value="Punjab">Punjab</option>
+                                        <option value="Punjab">Delhi</option>
+                                        <option value="Punjab">Uttar Pardesh</option>
+
                                        </select>
                                     </div>
                                 </div>
