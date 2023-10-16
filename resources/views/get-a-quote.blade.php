@@ -50,8 +50,8 @@
                                     <div class="col-lg-4">
                                     <select name="area" class="form-control" id="">
                                         <option value="serviceArea">Security guard:</option>
-                                        <option value="DELHI">DELHI</option>
-                                        <option value="HARIYANA">HARIYANA</option>
+                                        <option value="Delhi">Delhi</option>
+                                        <option value="Haryana">Haryana</option>
                                         <option value="UP">Uttar Pardesh</option>
                                         <optgroup label="Other Services area">
                                             <option value="Kerala">Kerala</option>
