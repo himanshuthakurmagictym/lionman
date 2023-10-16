@@ -49,7 +49,7 @@
                                     </div>
                                     <div class="col-lg-4">
                                     <select name="area" class="form-control" id="">
-                                        <option value="serviceArea">service Area</option>
+                                        <option value="serviceArea">Security guard:</option>
                                         <option value="DELHI">DELHI</option>
                                         <option value="HARIYANA">HARIYANA</option>
                                         <option value="UP">Uttar Pardesh</option>
@@ -59,8 +59,9 @@
                                             <option value="Madhya Pradesh">Madhya Pradesh</option>
                                             <option value="Hariyana">Hariyana</option>
                                             <option value="Punjab">Punjab</option>
-                                            <option value="Punjab">Delhi</option>
-                                            <option value="Punjab">Uttar Pardesh</option>
+                                            <option value="Delhi">Delhi</option>
+                                            <option value="UP">UP</option>
+                                            <option value="Uttrakhand">Uttrakhand</option>
                                         </optgroup>
 
                                        </select>
