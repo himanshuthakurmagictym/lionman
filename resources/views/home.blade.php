@@ -568,12 +568,12 @@
                         <!-- Start: Testimonial 1 -->
                         <div class="item">
                             <div class="testimonial-box">
-                                <div class="col-lg-3 col-sm-3 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
+                                <div class="col-lg-3 col-sm-12 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
                                 </div>
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
-                                    <span class="tes-nam">Rahul Gupta</span>
+                                    <span class="tes-nam">Akshita Gupta ABL</span>
                                     <br>
-                                    <span class="tes-degree">Director in Gupta Industries</span>
+                                    <span class="tes-degree">CEO</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <p>Lionman Commandos is best manpower services provided company. They complete projects on time or ahead of schedule and are very reasonably priced. I highly recommend them!
@@ -585,12 +585,12 @@
                         <!-- Start: Testimonial 3 -->
                         <div class="item">
                             <div class="testimonial-box">
-                                <div class="col-lg-3 col-sm-3 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
+                                <div class="col-lg-3 col-sm-12 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
                                 </div>
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
-                                    <span class="tes-nam">Rahul Sharma</span>
+                                    <span class="tes-nam">Darunendra dachar</span>
                                     <br>
-                                    <span class="tes-degree">Director in MagicDance</span>
+                                    <span class="tes-degree">Mayabious art LLP</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <p>They have best security services, very professional towards their commitment. They know how to get the job done. Nice company</p>
@@ -600,15 +600,30 @@
                         </div>
                         <div class="item">
                             <div class="testimonial-box">
-                                <div class="col-lg-3 col-sm-3 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
+                                <div class="col-lg-3 col-sm-12 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
                                 </div>
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
-                                    <span class="tes-nam">Chetan Thakur</span>
+                                    <span class="tes-nam">Manik Jain</span>
                                     <br>
-                                    <span class="tes-degree">CEO in WaytoSuccess</span>
+                                    <span class="tes-degree">Director</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <p>I am pleased with the performance of the Security Planet Services staff assigned to our facilities. The management responds quickly to questions and needs. I would definitely recommend Security Planet Services to others.</p>
+                                </div>
+                            </div>
+                            <!--End: Testimonial 3 -->
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-box">
+                                <div class="col-lg-3 col-sm-4 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
+                                </div>
+                                <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
+                                    <span class="tes-nam">Sourabh Kapoor</span>
+                                    <br>
+                                    <span class="tes-degree">Director</span>
+                                </div>
+                                <div class="col-lg-12 col-sm-12">
+                                    <p>I am impressed with the performance of the Security Planet Services staff assigned to our facilities.</p>
                                 </div>
                             </div>
                             <!--End: Testimonial 3 -->
