@@ -3456,3 +3456,9 @@ hyphens: auto;
     -webkit-text-fill-color: white;
 }
 
+@media (max-width:600px) {
+    .newbox{
+        margin-bottom: 50px;
+    }
+}
+
