@@ -73,6 +73,26 @@
         pagination: true,
         nav: false,
         dots: true,
+        responsive: {
+            1200: {
+                items: 4
+            },
+            992: {
+                items: 3
+            },
+            768: {
+                items: 3
+            },
+            480: {
+                items: 2
+            },
+            320: {
+                items: 1
+            },
+            280: {
+                items: 1
+            }
+        }
     });
 
     /*=======================================
