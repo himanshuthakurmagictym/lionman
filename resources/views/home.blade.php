@@ -222,22 +222,22 @@
                     </div>
                    
                 </div>
-                <div class="col-lg-2 col-sm-5 boxblink">
+                <div class="col-lg-2 col-xs-6 boxblink">
                 <div>
                 <div></div>Commitment
                     </div>
                 </div>
-                <div class="col-lg-2 col-sm-5 boxblink">
+                <div class="col-lg-2 col-xs-6 boxblink">
                 <div>
                 <div></div>Excellent
                     </div>
                 </div>
-                <div class="col-lg-2 col-sm-5 boxblink">
+                <div class="col-lg-2 col-xs-6 boxblink">
                 <div>
                 <div></div>Team Work
                     </div>
                 </div>
-                <div class="col-lg-2 col-sm-5 boxblink">
+                <div class="col-lg-2 col-xs-6 boxblink">
                 <div>
                 <div></div>Value
                    </div>
