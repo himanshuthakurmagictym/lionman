@@ -216,7 +216,7 @@
                  <div class="col-lg-1  ">
                    
                 </div>
-                <div class="col-lg-2 col-xs-7 boxblink">
+                <div class="col-lg-2 col-xs-6 boxblink">
                     <div>
                       <div></div>Compassion
                     </div>
