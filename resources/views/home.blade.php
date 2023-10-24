@@ -404,8 +404,8 @@
                                 <div class="team_icon">
                                 </div>
                                 <div class="info">
-                                    <h6>Vipin Rai </h6>
-                                    <p>Director</p>
+                                    <h6>Vipin Kumar Rai </h6>
+                                    <p>Managing Director</p>
                                     <!-- <ul class="social list-inline">
                                         <li>
                                             <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
@@ -423,7 +423,7 @@
                         </div>
                     </div>
 
-                    <div class="item">
+                    <!-- <div class="item">
                        
                        <div class="member">
                            <div class="img">
@@ -435,7 +435,7 @@
                                <div class="info">
                                    <h6>Akshita Gupta</h6>
                                    <p>ABL - CEO</p>
-                                   <!-- <ul class="social list-inline">
+                                 <ul class="social list-inline">
                                        <li>
                                            <a href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a>
                                        </li>
@@ -445,7 +445,7 @@
                                        <li>
                                            <a href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a>
                                        </li>
-                                   </ul> -->
+                                   </ul>
                                </div>
                            </div>
                        </div>
@@ -506,7 +506,7 @@
 
                                 </div>
                             </div>
-                            </div>
+                            </div> -->
                  
                 </div>
             </div>
@@ -571,9 +571,9 @@
                                 <div class="col-lg-3 col-sm-12 col-xs-12"><img alt="testimonial" src="images/background/user-icon.png">
                                 </div>
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
-                                    <span class="tes-nam">Akshita Gupta ABL</span>
+                                    <span class="tes-nam">Akshita Gupta </span>
                                     <br>
-                                    <span class="tes-degree">CEO</span>
+                                    <span class="tes-degree">CEO (ABL)</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <p>Lionman Commandos is best manpower services provided company. They complete projects on time or ahead of schedule and are very reasonably priced. I highly recommend them!
@@ -605,7 +605,7 @@
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
                                     <span class="tes-nam">Manik Jain</span>
                                     <br>
-                                    <span class="tes-degree">Director</span>
+                                    <span class="tes-degree">Director (HasTag Coworking)</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <p>I am pleased with the performance of the Security Planet Services staff assigned to our facilities. The management responds quickly to questions and needs. I would definitely recommend Security Planet Services to others.</p>
@@ -620,7 +620,7 @@
                                 <div class="col-lg-8 col-sm-9 col-xs-12 cus-title">
                                     <span class="tes-nam">Sourabh Kapoor</span>
                                     <br>
-                                    <span class="tes-degree">Director</span>
+                                    <span class="tes-degree">Director (Progressive Steel automotive solution private limited)</span>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <p>I am impressed with the performance of the Security Planet Services staff assigned to our facilities.</p>

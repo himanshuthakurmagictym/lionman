@@ -46,7 +46,7 @@ $guarding_services = \App\Models\Services::where(['service_category' => 'guardin
                                <ul style="list-style: none; padding: 0 0 0 20px; font-size: 18px;">
                                 <p><li>
                                  <i class="fa fa-envelope"></i> : info@lionmancommandos.com</li>
-                                <li><i class="fa fa-phone"></i> : +91 7015512160</li>
+                                <li><i class="fa fa-phone"></i> : 011 4288279</li>
                                 <li><i class="fa fa-home"></i> : RZB-33, 2nd Floor, Mahavir Enclave Part-1, New Delhi-110045 </li></p>
                                </ul>
                                 

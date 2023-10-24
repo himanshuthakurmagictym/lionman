@@ -22,7 +22,7 @@
            Team Section 
        =======================================*/
     $("#team").owlCarousel({
-        items: 4, //Set Testimonial items
+        items: 3, //Set Testimonial items
         loop: true,
         margin: 10,
         autoplay: true,
@@ -37,7 +37,7 @@
         navText: ['<i class="arrow_carrot-left"></i>', '<i class="arrow_carrot-right"></i>'],
         responsive: {
             1200: {
-                items: 4
+                items: 3
             },
             992: {
                 items: 3
